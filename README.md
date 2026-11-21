@@ -1,7 +1,5 @@
 # Finance Projects
 
-**Wenjie Li** | University of South Florida, B.S. Finance and B.S. AI & Business Analytics, Philosophy Minor
-
 ## PJM Western Hub: A Play on Scarcity
 [Deck (PDF)](PJM%20Western%20Hub%20-%20UCC%20Pitch%20Deck.pdf)
 
